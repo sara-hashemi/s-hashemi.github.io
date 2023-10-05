@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 title: "Awards"
 excerpt: "Awards"
 author_profile: true
