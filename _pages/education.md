@@ -1,12 +1,9 @@
 ---
-permalink: /
+permalink: /education/
+layout: single
 title: "Education"
-layout: archive
 excerpt: "Education"
 author_profile: true
-redirect_from: 
-  - /education/
-  - /education.html
 ---
 
 
