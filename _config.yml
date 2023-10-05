@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ali Shokri"
 title_separator          : "-"
-name                     : &name "Ali Shokri, PhD"
+name                     : &name "Ali Shokri"
 description              : &description "Postdoc Associate at Virginia Tech"
 url                      : https://a-shokri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Shokri"
+  name             : "Ali Shokri, PhD"
   avatar           : "profile.png"
   bio              : "Postdoctoral Associate at Virginia Tech, Software Security, Program Analysis, and Formal Methods"
   location         : "Virginia, USA"
