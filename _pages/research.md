@@ -1,7 +1,8 @@
 ---
-layout: archive
-title: "Research directions"
 permalink: /research/
+layout: single
+title: "Research Directions"
+excerpt: "Research Directions"
 author_profile: true
 ---
 
