@@ -6,4 +6,8 @@ excerpt: "Professional Experiences"
 author_profile: true
 ---
 
-**My professional experiences**
+Please find an overview of my experiences as follows:
+
+![My Experience Overview](/assets/images/Experience_Overview.png)
+
+You may find more deails of my work experience from my [CV](/assets/docs/Ali Shokri-CV-A-2023.pdf). 
