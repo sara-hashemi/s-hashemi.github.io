@@ -7,8 +7,6 @@ author_profile: true
 ---
 
 The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?hl=en&user=2bRaz-QAAAAJ&view_op=list_works&authuser=1&sortby=pubdate). 
-
-## Latest Publications
  
 ### 2023
 - Santos, J., Mirakhorli, M. and Shokri, A., 2023. Sound Call Graph Construction for Java Object Deserialization. arXiv preprint arXiv:2311.00943. 
