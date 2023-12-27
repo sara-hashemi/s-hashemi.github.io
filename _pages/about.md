@@ -23,6 +23,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 - Software Security \[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 
 # News & announcements
+**Dec 2023:** Our [paper](https://arxiv.org/ftp/arxiv/papers/2311/2311.00943.pdf) on sound call graph construction got accepted to [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla#Call-for-Papers) reseach track.\\
 **Aug 2023:** I will be serving the [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers) as a PC member of the Research track.\\
 **Aug 2023:** I've joined the ECE department of Virginia Tech (among the top four best ECEs in the US!) as a postdoc associate to expand my research domain to formal-oriented software security.
 \\
