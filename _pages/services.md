@@ -16,8 +16,9 @@ author_profile: true
 ## Conferences (PC Member)
 
 ### 2024
-- [Upcoming] 33rd USENIX Symposium Security \([SANER'24 Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers))
- 
+- [Upcoming] 33rd USENIX Symposium Security \([USENIX'24 Research Track](https://www.usenix.org/conference/usenixsecurity24/call-for-papers))
+- [Upcoming] 18th European Conference on Software Architecture \([ECSA'24 Research Track](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers))
+
 ### 2023
 - 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering \([SANER'24 Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers))
 - 20th International Conference on Mining Software Repository \([MSR'23 Junior PC Track](https://conf.researchr.org/home/msr-2023))
