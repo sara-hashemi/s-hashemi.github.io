@@ -26,7 +26,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 **Jan 2024:** I will be serving [ECSA'24](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers) as a PC member of the Research track.\\
 **Jan 2024:** I will be serving [USENIX'24](https://www.usenix.org/conference/usenixsecurity24) as a PC member of the Research track.\\
 **Dec 2023:** Our [paper](https://arxiv.org/ftp/arxiv/papers/2311/2311.00943.pdf) on sound call graph construction got accepted to [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla#Call-for-Papers) reseach track.\\
-**Aug 2023:** I will be serving the [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers) as a PC member of the Research track.\\
+**Aug 2023:** I will be serving [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers) as a PC member of the Research track.\\
 **Aug 2023:** I've joined the ECE department of Virginia Tech (among the top four best ECEs in the US!) as a postdoc associate to expand my research domain to formal-oriented software security.
 \\
 **Jul 2023:** I successfully defended my Ph.D. dissertation!
@@ -35,27 +35,27 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 \\
 **Dec 2022:** Successfully defended my Ph.D. proposal, getting ready for the dissertation defense in the near future.
 \\
-**Dec 2022:** I will be serving the [MSR'23](https://conf.researchr.org/home/msr-2023) as a Junior PC of the Research track.
+**Dec 2022:** I will be serving [MSR'23](https://conf.researchr.org/home/msr-2023) as a Junior PC of the Research track.
 \\
 **Aug 2022:** I’ve started a new position as a Research Intern at [Google](http://www.google.com/) to work on Google's Large Language Models (LLM) for AI-assisted software development and software synthesis.
 \\
 **May 2022:** I’ve finished my Research Internship at [PARC](https://www.parc.com/), aiming at registering two inventions and 2 papers as outcomes of my contribution.
 \\
-**Mar 2022:** I will be serving the [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-SRC) as a PC member of the Research Competition track.
+**Mar 2022:** I will be serving [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-SRC) as a PC member of the Research Competition track.
 \\
-**Feb 2022:** I will be serving the [ISSTA'22](https://conf.researchr.org/track/issta-2022/issta-2022-tool-demonstrations) as a PC member of the Tool Demo track.
+**Feb 2022:** I will be serving [ISSTA'22](https://conf.researchr.org/track/issta-2022/issta-2022-tool-demonstrations) as a PC member of the Tool Demo track.
 \\
 **Feb 2022:** I’ve joined the Palo Alto Research Center ([PARC](https://www.parc.com/)) as a Research Intern, Software Synthesis.
 \\
-**Jan 2022:** I will be serving the [SCAM'22](http://www.ieee-scam.org/2022/#cfpresearchtrack) as a PC member of the Research track.
+**Jan 2022:** I will be serving [SCAM'22](http://www.ieee-scam.org/2022/#cfpresearchtrack) as a PC member of the Research track.
 \\
-**Jan 2022:** I will be serving the [PLDI'22](https://pldi22.sigplan.org/track/pldi-2022-PLDI-Research-Artifacts) as a PC member of the Research Artifact track.
+**Jan 2022:** I will be serving [PLDI'22](https://pldi22.sigplan.org/track/pldi-2022-PLDI-Research-Artifacts) as a PC member of the Research Artifact track.
 \\
-**Jan 2022:** I will be serving the [ICSME'22](https://cyprusconferences.org/icsme2022/tool-demo-track/) as a PC member of the Tool Demo track.
+**Jan 2022:** I will be serving [ICSME'22](https://cyprusconferences.org/icsme2022/tool-demo-track/) as a PC member of the Tool Demo track.
 \\
-**Dec 2021:** I will be serving the [ASE'22](https://conf.researchr.org/track/ase-2022/ase-2022-student-research-competition) as a PC member of the Research Competition track.
+**Dec 2021:** I will be serving [ASE'22](https://conf.researchr.org/track/ase-2022/ase-2022-student-research-competition) as a PC member of the Research Competition track.
 \\
-**Dec 2021:** I will be serving the [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research) as a PC member of the Research track.
+**Dec 2021:** I will be serving [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research) as a PC member of the Research track.
 \\
 **Nov 2021:** My research won the Research Competition Award at [ASE'21](https://conf.researchr.org/track/ase-2021/ase-2021-student-research-competition).
 
