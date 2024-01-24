@@ -14,6 +14,9 @@ author_profile: true
 - Sub-reviewer for ACM Transactions on Software Engineering and Methodology \([ToSEM](https://dl.acm.org/journal/tosem))
 
 ## Conferences (PC Member)
+
+### 2024
+- [Upcoming] 33rd USENIX Symposium Security \([SANER'24 Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers))
  
 ### 2023
 - 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering \([SANER'24 Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers))
