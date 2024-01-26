@@ -9,7 +9,7 @@ author_profile: true
 The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?hl=en&user=2bRaz-QAAAAJ&view_op=list_works&authuser=1&sortby=pubdate). 
 ### 2024
 - [To be appeared] Verbeek, F., Shokri, A., Engel, D., Ravindran, B., Formally Verified Binary-level Pointer Analysis. (2024)
-- 
+ 
 ### 2023
 - [Accepted to OOPSLA'24] Santos, J., Mirakhorli, M. and Shokri, A., 2023. Sound Call Graph Construction for Java Object Deserialization. arXiv preprint arXiv:2311.00943. 
 - Shokri, A., Perez, A., Chowdhury, S., Zeng, C., Kaloor, G., Matei, I., Schneider, P.P., Gunasekaran, A. and Rane, S., 2023. CONSTRUCT: A Program Synthesis Approach for Reconstructing Control Algorithms from Embedded System Binaries in Cyber-Physical Systems. arXiv preprint arXiv:2308.00250.
