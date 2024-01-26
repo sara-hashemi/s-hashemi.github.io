@@ -17,7 +17,10 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 
 
 <p class="panel-note" markdown="1">
-**I'm on the job market for the next academic year (2024-25) for an assistant professor postition.** Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).
+
+  **I'm on the job market for the next academic year (2024-25) for an assistant professor postition.** Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).
+
+
 </p>
 
 
