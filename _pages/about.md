@@ -53,15 +53,9 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 \\
 **Feb 2022:** I’ve joined the Palo Alto Research Center ([PARC](https://www.parc.com/)) as a Research Intern, Software Synthesis.
 \\
-**Jan 2022:** I will be serving [SCAM'22](http://www.ieee-scam.org/2022/#cfpresearchtrack) as a PC member of the Research track.
+**Jan 2022:** I will be serving [SCAM'22](http://www.ieee-scam.org/2022/#cfpresearchtrack) (Research track), [PLDI'22](https://pldi22.sigplan.org/track/pldi-2022-PLDI-Research-Artifacts) (Artifact track), and [ICSME'22](https://cyprusconferences.org/icsme2022/tool-demo-track/) (Tool track) as a PC member.
 \\
-**Jan 2022:** I will be serving [PLDI'22](https://pldi22.sigplan.org/track/pldi-2022-PLDI-Research-Artifacts) as a PC member of the Research Artifact track.
-\\
-**Jan 2022:** I will be serving [ICSME'22](https://cyprusconferences.org/icsme2022/tool-demo-track/) as a PC member of the Tool Demo track.
-\\
-**Dec 2021:** I will be serving [ASE'22](https://conf.researchr.org/track/ase-2022/ase-2022-student-research-competition) as a PC member of the Research Competition track.
-\\
-**Dec 2021:** I will be serving [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research) as a PC member of the Research track.
+**Dec 2021:** I will be serving [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research) (Research track) and [ASE'22](https://conf.researchr.org/track/ase-2022/ase-2022-student-research-competition) (Research Competition track) as a PC member.
 \\
 **Nov 2021:** My research won the Research Competition Award at [ASE'21](https://conf.researchr.org/track/ase-2021/ase-2021-student-research-competition).
 
