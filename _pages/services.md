@@ -18,6 +18,7 @@ author_profile: true
 ### 2024
 - [Upcoming] 33rd USENIX Symposium Security \([USENIX'24 Research Track](https://www.usenix.org/conference/usenixsecurity24/call-for-papers))
 - [Upcoming] 18th European Conference on Software Architecture \([ECSA'24 Research Track](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers))
+- [Upcoming] 17th IEEE International Conference on Software Testing, Verification and Validation \([ICST'24 Tool Track](https://conf.researchr.org/track/icst-2024/icst-2024-testing-tool-demo#ICST-2024-Testing-Tools-and-Demonstration-Call-for-Papers))
 
 ### 2023
 - 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering \([SANER'24 Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers))
