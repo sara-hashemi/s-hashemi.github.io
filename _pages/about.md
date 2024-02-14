@@ -20,7 +20,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 <!-- ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the job market for the next academic year (2024-25) for an assistant professor postition.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf). -->
 
 
-<b>Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).</b>
+<b>I'm on the academic job market for fall 2024.</b> Please find my <b>[CV](/assets/docs/Ali_Shokri-CV-2024.pdf)</b>, <b>[research statement](/assets/docs/Ali_Research_Statement.pdf)</b>, and <b>[teaching statement](/assets/docs/Ali_Teaching_Statement.pdf)</b>.
 
 
 
