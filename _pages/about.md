@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+kbd {
+  font-size: 0.95em;
+  padding: 0.1em 0.15em;
+  border-radius: 0.2em;
+  border: 1px solid #666;
+  box-shadow: 0.15em 0.15em #aaa;
+  background: white;
+  text-decoration: none;
+}
+</style>
 
 I am a postdoc associate in the [Systems Software Research Group](https://www.ssrg.ece.vt.edu/), Bradley Department of Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/), VA, USA, working with [Prof. Binoy Ravindran](https://binoyravindran.github.io/) on the intersection of security, program analysis, and formal methods. I received my Ph.D. in Computing and Information Sciences from [Rochester Institute of Technology (RIT)](https://rit.edu/), NY, USA, in 2023, under the supervision of [Dr. Mirakhorli](http://www.se.rit.edu/~mehdi/) with the focus on program synthesis and program analysis. In particular, my dissertation aimed at pushing the boundary of program synthesis and supporting a wide range of software developers with inter-procedural program synthesis.
 
@@ -19,9 +30,10 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
  
 <!-- ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the job market for the next academic year (2024-25) for an assistant professor postition.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf). -->
 
-|---|
-|![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).|
-|---|
+<kbd>
+{{ "![Announcement](/assets/images/hiclipart_announcement.png){: width=\"5\0" } <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf)." | markdownify }}
+  
+</kbd>
 
 # Research interests
 
