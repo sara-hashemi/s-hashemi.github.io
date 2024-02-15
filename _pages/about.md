@@ -16,10 +16,10 @@ My [paper](https://ieeexplore.ieee.org/document/9678705) on program synthesis is
 During my Ph.D., as a Research Intern, I had the privilege to collaborate with brilliant researchers at [Google](http://www.google.com) (Fall 2022) and [PARC](https://www.parc.com) (Spring 2022). 
 
 
-
+ 
 <!-- ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the job market for the next academic year (2024-25) for an assistant professor postition.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf). -->
 
-
+ 
 ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).
 
 # Research interests
