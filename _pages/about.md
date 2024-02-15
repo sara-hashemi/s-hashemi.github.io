@@ -36,10 +36,7 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 <br />
 <div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.6em; border: 1px solid #3853a436; box-shadow: 0.20em 0.20em #aaaaaa61; background: #fff9f3;" markdown="1">
 
-|    |                   |
-|---|----------------------|
-![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } | <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).|
-|    |                   |
+|![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } | <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).|
 
 </div>
 
