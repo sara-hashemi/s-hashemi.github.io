@@ -18,6 +18,10 @@ redirect_from:
   background: white;
   text-decoration: none;
 }
+td, th {
+   border: none!important;
+}
+
 </style>
 
 I am a postdoc associate in the [Systems Software Research Group](https://www.ssrg.ece.vt.edu/), Bradley Department of Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/), VA, USA, working with [Prof. Binoy Ravindran](https://binoyravindran.github.io/) on the intersection of security, program analysis, and formal methods. I received my Ph.D. in Computing and Information Sciences from [Rochester Institute of Technology (RIT)](https://rit.edu/), NY, USA, in 2023, under the supervision of [Dr. Mirakhorli](http://www.se.rit.edu/~mehdi/) with the focus on program synthesis and program analysis. In particular, my dissertation aimed at pushing the boundary of program synthesis and supporting a wide range of software developers with inter-procedural program synthesis.
@@ -31,9 +35,12 @@ During my Ph.D., as a Research Intern, I had the privilege to collaborate with b
 <!-- ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the job market for the next academic year (2024-25) for an assistant professor postition.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf). -->
 <br />
 <div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.6em; border: 1px solid #3853a436; box-shadow: 0.20em 0.20em #aaaaaa61; background: #fff9f3;" markdown="1">
-<table><tr>
-<td style="width:60">![Announcement](/assets/images/hiclipart_announcement.png){: width="50" }</td><td> <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).
-</td></tr></table>
+
+|    |                   |
+|---|----------------------|
+![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } | <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).|
+|    |                   |
+
 </div>
 
 <br />
