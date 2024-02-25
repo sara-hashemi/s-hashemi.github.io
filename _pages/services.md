@@ -7,15 +7,17 @@ author_profile: true
 ---
  
 ## Journals (Paper Reviewer)
-- Reviewer for the IEEE Transactions on Software Engineering \([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32))
+<!--- Reviewer for the IEEE Transactions on Software Engineering \([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32))
 - Reviewer for the IEEE Software Journal \([IEEE Softw.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52))
 - Reviewer for the Journal of Systems & Software \([JSS](https://www.journals.elsevier.com/journal-of-systems-and-software))
 - Reviewer for the e-Informatica Software Engineering Journal \([EISEJ](https://www.e-informatyka.pl))
-- Sub-reviewer for ACM Transactions on Software Engineering and Methodology \([ToSEM](https://dl.acm.org/journal/tosem))
+- Sub-reviewer for ACM Transactions on Software Engineering and Methodology \([ToSEM](https://dl.acm.org/journal/tosem))-->
+### To be added.
 
 ## Conferences (PC Member)
+### To be added.
 
-### 2024
+<!--### 2024
 - [Upcoming] 33rd USENIX Symposium Security \([USENIX'24 Research Track](https://www.usenix.org/conference/usenixsecurity24/call-for-papers))
 - [Upcoming] 18th European Conference on Software Architecture \([ECSA'24 Research Track](https://conf.researchr.org/track/ecsa-2024/ecsa-2024-research-papers))
 - [Upcoming] 17th IEEE International Conference on Software Testing, Verification and Validation \([ICST'24 Tool Track](https://conf.researchr.org/track/icst-2024/icst-2024-testing-tool-demo#ICST-2024-Testing-Tools-and-Demonstration-Call-for-Papers))
@@ -44,3 +46,4 @@ author_profile: true
 - RIT [SWEN-610](http://www.se.rit.edu/~swen-610/index.html) - Graduate Level Course \(Guest Lecturer): Foundation of Software Engineering \(An Introduction to Program Synthesis - (https://www.youtube.com/watch?v=wvbqBAWnMgY)Video)
 - Design Patterns \([Melat Insurance Co.](http://www.melat.ir))
 - Java Programming \([Raydana Co.](http://www.raydana.com))
+-->
