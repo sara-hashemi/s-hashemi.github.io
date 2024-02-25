@@ -27,7 +27,7 @@ My [paper](https://ieeexplore.ieee.org/document/10172729) on Generative models f
  
 <div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.5em; border: 1px solid #3853a470; background: #b1ffe2cf;" markdown="1">
 
-![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Ali_Shokri-CV-2024.pdf), [research statement](/assets/docs/Ali_Research_Statement.pdf), and [teaching statement](/assets/docs/Ali_Teaching_Statement.pdf).
+![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Sara_Hashemi-CV-2024.pdf), [research statement](/assets/docs/Sara_Research_Statement.pdf), and [teaching statement](/assets/docs/Sara_Teaching_Statement.pdf).
 </div>
 
 <p> </p>
