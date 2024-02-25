@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Shokri"
+title                    : "Sara Hashemi"
 title_separator          : "-"
-name                     : &name "Ali Shokri"
+name                     : &name "Sara Hashemi"
 description              : &description "Postdoc Associate at Virginia Tech"
-url                      : https://a-shokri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sara-hashemi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "a-shokri.github.io"
+repository               : "sara-hashemi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Shokri, PhD"
+  name             : "Sara Hashemi, PhD"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Associate at Virginia Tech, Software Security, Program Analysis, and Formal Methods"
+  bio              : "Postdoctoral Associate at Virginia Tech, AI/ML, Medical Imaging, and Computer Vision"
   location         : "Virginia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2bRaz-QAAAAJ&hl=en&authuser=1"
-  email            : ashokri [at] vt [at] edu
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Cah7O2oAAAAJ&view_op=list_works&authuser=2&sortby=pubdate"
+  email            : shsm [at] vt [at] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
