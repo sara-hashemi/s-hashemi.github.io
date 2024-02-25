@@ -6,25 +6,23 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?hl=en&user=2bRaz-QAAAAJ&view_op=list_works&authuser=1&sortby=pubdate). 
-### 2024
-- [To be appeared] Verbeek, F., Shokri, A., Engel, D., Ravindran, B., Formally Verified Binary-level Pointer Analysis. (2024)
-- [Accepted to OOPSLA'24] Santos, J., Mirakhorli, M. and Shokri, A., 2023. Sound Call Graph Construction for Java Object Deserialization. arXiv preprint arXiv:2311.00943. 
+The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Cah7O2oAAAAJ&view_op=list_works&authuser=2&sortby=pubdate). 
  
 ### 2023
-- Shokri, A., Perez, A., Chowdhury, S., Zeng, C., Kaloor, G., Matei, I., Schneider, P.P., Gunasekaran, A. and Rane, S., 2023. CONSTRUCT: A Program Synthesis Approach for Reconstructing Control Algorithms from Embedded System Binaries in Cyber-Physical Systems. arXiv preprint arXiv:2308.00250.
-- Okutan, A., Shokri, A., Koscinski, V., Fazelinia, M. and Mirakhorli, M., 2023. A Novel Approach to Identify Security Controls in Source Code. arXiv preprint arXiv:2307.05605.
-- Shokri, A., 2023. Inter-procedural Program Synthesis for Automatic Architectural Tactic Implementation (Doctoral dissertation, Rochester Institute of Technology).
+- Aghasizade, M., Kiyoumarsioskouei, A., Hashemi, S., Torabinia, M., Caprio, A., Rashid, M., ... & Mosadegh, B. (2023). A coordinate-regression-based deep learning model for catheter detection during structural heart interventions. Applied Sciences, 13(13), 7778.
+- Ebrahimi, L., Veisi, H., Jafarzadepour, E., & Hashemi, S. Multimodal Feature Extraction and Fusion for Determining Rgp Lens Specification Base-Curve Through Pentacam Images. Available at SSRN 4327543.
+- Koscinski, V., Hashemi, S., & Mirakhorli, M. (2023, May). On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks. In 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE) (pp. 1609-1621). IEEE.
 
 ### 2021
-- Shokri, A., 2021, November. A program synthesis approach for adding architectural tactics to an existing code base. In 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 1388-1390). IEEE.
-- Shokri, A. and Mirakhorli, M., 2021. Depres: A tool for resolving fully qualified names and their dependencies. arXiv preprint arXiv:2108.01165.
-- Shokri, A., Santos, J.C. and Mirakhorli, M., 2021, March. Arcode: Facilitating the use of application frameworks to implement tactics and patterns. In 2021 IEEE 18th International Conference on Software Architecture (ICSA) (pp. 138-149). IEEE.
-- Shokri, A. and Mirakhorli, M., 2021, May. A tool for supporting comprehension and implementation of architectural concerns. In 2021 IEEE/ACM 29th International Conference on Prog
+- Ebrahimi, L., Veisi, H., Jafarzadepour, E., & Hashemi, S. Multimodal Feature Extraction and Fusion for Determining Rgp Lens Specification Base-Curve Through Pentacam Images. Available at SSRN 4327543.
 
 ### 2020
-- Santos, J.C., Shokri, A. and Mirakhorli, M., 2020, October. Towards automated evidence generation for rapid and continuous software certification. In 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW) (pp. 287-294). IEEE.
+- Hashemi, S., Veisi, H., Jafarzadehpur, E., Rahmani, R., & Heshmati, Z. (2020). An image processing approach for rigid gas-permeable lens base-curve identification. Signal, Image and Video Processing, 14, 971-979.
+- Hashemi, S., Veisi, H., Jafarzadehpur, E., Rahmani, R., & Heshmati, Z. (2020). Multi-view deep learning for rigid gas permeable lens base curve fitting based on Pentacam images. Medical & Biological Engineering & Computing, 58, 1467-1482.
 
-## Patents / Inventions
-- An SMT-based approach for extracting mathematical models from binaries, Shantanu Rane, Ali Shokri, Peter F. Patel-Schneider, Ion Matei (2023)
-- A method for deriving mathematical models from embedded code using a modified genetic algorithm to perform a symbol-to-variable mapping, Shantanu Rane, Ali Shokri, Peter F. Patel-Schneider, Ion Matei (2022)
+### 2019
+- Hashemi, S., Veisi, H., Jafarzadehpur, E., Rahmani, R., & Heshmati, Z. (2019, October). A CCA Approach for Multiview Analysis to Detect Rigid Gas Permeable Lens Base Curve. In 2019 IEEE Western New York Image and Signal Processing Workshop (WNYISPW) (pp. 1-5). IEEE.
+- Hashemi, S. (2018). Machine learning based Visual Evoked Potential (VEP) Signals Recognition. Iranian Journal of Medical Physics, 15(Special Issue-12th. Iranian Congress of Medical Physics), 246-246.
+
+## Inventions
+- An ML-based heart post-operation success rate prediction, Sara Hashemi, Bobak Mosadegh. Weil Cornel Medicine (2023)
