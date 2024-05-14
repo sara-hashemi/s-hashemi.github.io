@@ -22,7 +22,7 @@ redirect_from:
 
 I am a postdoc associate in the [Computational Bioinformatics and Imaging Lab (CBIL)](https://github.com/cbil-vt), Bradley Department of Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/), VA, USA, working with [Prof. Yue (Joseph) Wang](https://ece.vt.edu/people/profile/wangy.html) on the intersection of AI/ML and medical data processing. Before that, I was a postdoc associate at [Cornell University](https://mosadeghlab.weebly.com) working on AI/ML in medical imaging, and at [Rochester Institute of Technology](https://mehdimirakhorli.github.io) conducting research in the intersection of ML and software security. I received my Ph.D. in Information Technology Engineering from [University of Tehran](https://dsp.ut.ac.ir) in 2022 with a focus on AI/ML and medical imaging. In particular, my dissertation aimed at exploring deep learning techniques and pushing the boundary of artificial intelligence for the classification of medical images.
 
-My [paper](https://ieeexplore.ieee.org/document/10172729) on Generative models for On-Demand Security Requirements was accepted at the 45th International Conference on Software Engineering (ICSE) ([ICSE’23](https://conf.researchr.org/home/icse-2023)).
+My [paper](https://ieeexplore.ieee.org/document/10172729) on Generative models for On-Demand Security Requirements was accepted at the 45th International Conference on Software Engineering ([ICSE’23](https://conf.researchr.org/home/icse-2023)).
 
  
 <div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.5em; border: 1px solid #0a30a270; background: #f9f5d1cf;" markdown="1">
