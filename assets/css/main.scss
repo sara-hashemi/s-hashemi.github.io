@@ -67,7 +67,7 @@ a {
 }
 
 .masthead {
-	background-color: #1d1d3e;
+	background-color:#fff /*#1d1d3e*/;
 }
 
 .greedy-nav{
@@ -75,15 +75,15 @@ a {
 }
 
 .greedy-nav a {
-	color: #fff;
+	color: #262525 /*#fff*/;
 }
 
 .greedy-nav a:hover {
-	color: #fff;
+	color: #4d4a4a/*#fff*/;
 }
 
 .greedy-nav .visible-links a::before {
-	background: #fff;
+	background: #514f4f /*#fff*/;
 }
 
 strong {
