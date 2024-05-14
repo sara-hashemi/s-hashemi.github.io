@@ -12,4 +12,4 @@ Ranked 1st amongst 2013 class graduates in the field of Information Technology E
 
 ## Nation-wide University Admission Exam 
 ### Doctoral Exam (2013)
-Ranked 19th in 2013 Ph.D. doctorate entrance participants.
+Ranked 19th in the 2013 Ph.D. doctorate entrance exam.
