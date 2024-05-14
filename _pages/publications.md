@@ -30,4 +30,4 @@ The full record of my publications is available from my [Google Scholar](https:/
 - Hashemi, S., Hashemi, MS., 2018, Machine learning based Visual Evoked Potential (VEP) Signals Recognition (Poster), 2018 World Congress on Medical Physics and Biomedical Engineering, Tehran, Iran
   
 ## Inventions
-- An ML-based heart post-operation success rate prediction, Sara Hashemi, Bobak Mosadegh. Weil Cornel Medicine (2023)
+- ”Predictive model for effective treatment using uterine fibroid embolization”, Bobak Mosadegh, Sara Hashemi, and Marc Schiffman (2023). In the process of being filed as a US Patent.
