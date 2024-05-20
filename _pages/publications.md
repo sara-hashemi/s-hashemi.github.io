@@ -7,9 +7,11 @@ author_profile: true
 ---
 
 The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Cah7O2oAAAAJ&view_op=list_works&authuser=2&sortby=pubdate). 
- 
-### 2023
+
+### 2024
 - Hashemi, S., Annabestani, M., Aghasizade, M., Kiyoumarsioskouei, A., Wong, S. C., and Mosadegh, B. 2023. “Use of Yolo Detection for 3D Pose Tracking of Cardiac Catheters using Bi-Plane Fluoroscopy”. Advanced Intelligent Systems.
+
+### 2023
 - Aghasizade, M., Kiyoumarsioskouei, A., Hashemi, S., Torabinia, M., Caprio, A., Rashid, M., ... & Mosadegh, B. (2023). A coordinate-regression-based deep learning model for catheter detection during structural heart interventions. Applied Sciences, 13(13), 7778.
 - Ebrahimi, L., Veisi, H., Jafarzadehpur, E., Hashemi, S., 2023. “Multimodal Feature Extraction and Fusion for Determining RGP Lens Specification Base- Curve through Pentacam Images”, Computers in Biology and Medicine.
 - Koscinski, V., Hashemi, S., & Mirakhorli, M. (2023, May). On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks. In 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE) (pp. 1609-1621). IEEE.
