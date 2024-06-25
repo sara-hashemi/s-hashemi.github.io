@@ -25,10 +25,10 @@ I am a postdoc associate in the [Computational Bioinformatics and Imaging Lab (C
 My [paper](https://ieeexplore.ieee.org/document/10172729) on Generative models for On-Demand Security Requirements was accepted at the 45th International Conference on Software Engineering ([ICSE’23](https://conf.researchr.org/home/icse-2023)).
 
  
-<div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.5em; border: 1px solid #0a30a270; background: #f5f6f7cf;" markdown="1">
+<!--div style="font-size: 0.95em; padding: 0.1em 0.50em; border-radius: 0.5em; border: 1px solid #0a30a270; background: #f5f6f7cf;" markdown="1">
 
 ![Announcement](/assets/images/hiclipart_announcement.png){: width="50" } <b>I'm on the academic job market for a start date of August 2024.</b> Please find my [CV](/assets/docs/Sara_Hashemi-CV-2024.pdf), [research statement](/assets/docs/Sara_Research_Statement.pdf), and [teaching statement](/assets/docs/Sara_Teaching_Statement.pdf).
-</div>
+</div-->
 
 <p> </p>
 # Research interests
