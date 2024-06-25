@@ -38,7 +38,7 @@ My [paper](https://ieeexplore.ieee.org/document/10172729) on Generative models f
 - Software Security \[[SecCont](https://arxiv.org/pdf/2307.05605)\]\[[Sherlock](https://ieeexplore.ieee.org/iel7/9307608/9307628/09307656.pdf)\]
 -->
 
-- Deep Learning \[[Multimodal deep fusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4327543)\]\[[CNN catheter tracking](https://www.mdpi.com/2076-3417/13/13/7778)\]\[[Multi-view deep fusion](https://link.springer.com/article/10.1007/s11517-020-02154-4)\] \[[Yolo catheter tracking]("https://www.mdpi.com/2673-2688/5/2/44")\]
+- Deep Learning \[[Multimodal deep fusion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4327543)\]\[[CNN catheter tracking](https://www.mdpi.com/2076-3417/13/13/7778)\]\[[Multi-view deep fusion](https://link.springer.com/article/10.1007/s11517-020-02154-4)\] \[[Yolo catheter tracking](https://www.mdpi.com/2673-2688/5/2/44)\]
 - Generative AI \[[GANs for security](https://ieeexplore.ieee.org/abstract/document/10172729)\]
 - Medical Data Processing \[[Medical image processing](https://link.springer.com/article/10.1007/s11760-019-01629-8)\] \[[Signal processing](https://journals.mums.ac.ir/article_12876.html)\]\[[AI for ED overcrowding](https://aie.ut.ac.ir/article_52919.html)\]
 
