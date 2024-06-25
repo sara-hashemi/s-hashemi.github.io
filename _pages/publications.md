@@ -9,7 +9,7 @@ author_profile: true
 The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Cah7O2oAAAAJ&view_op=list_works&authuser=2&sortby=pubdate). 
 
 ### 2024
-- Hashemi, S., Annabestani, M., Aghasizade, M., Kiyoumarsioskouei, A., Wong, S. C., and Mosadegh, B. 2024. “Use of Yolo Detection for 3D Pose Tracking of Cardiac Catheters using Bi-Plane Fluoroscopy”. AI. MDPI.
+- Hashemi, S., Annabestani, M., Aghasizade, M., Kiyoumarsioskouei, A., Wong, S. C., & Mosadegh, B. (2024). Use of Yolo Detection for 3D Pose Tracking of Cardiac Catheters Using Bi-Plane Fluoroscopy. AI, 5(2), 887-897.
 
 ### 2023
 - Aghasizade, M., Kiyoumarsioskouei, A., Hashemi, S., Torabinia, M., Caprio, A., Rashid, M., ... & Mosadegh, B. (2023). A coordinate-regression-based deep learning model for catheter detection during structural heart interventions. Applied Sciences, 13(13), 7778.
